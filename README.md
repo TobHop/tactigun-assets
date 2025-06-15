@@ -18,7 +18,7 @@ You can update the repository by doing:
 
 
 
-# How to compile to HTML?
+# How to compile SB3 to HTML?
 
 1. First you will need the scratch 3 (.sb3) file of the Tactigun engine I or II game or modified Tactigun version you want to compile to html. (I have some Tactigun builds you can use in the builds folder.)
 
