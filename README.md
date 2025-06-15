@@ -3,4 +3,4 @@ Basically a bunch of music, spritework, old builds, hence the name Tactigun asse
 
 If you want the repository locally, you can use [git](https://git-scm.com/downloads) to clone it with:
 
-`https://github.com/TobHop/tactigun-assets.git`
+`git clone https://github.com/TobHop/tactigun-assets.git`
