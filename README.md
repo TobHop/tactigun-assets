@@ -20,7 +20,7 @@ You can update the repository by doing:
 
 # How to compile to HTML?
 
-1. First you will need the scratch 3 (.sb3) file of the Tactigun engine I or II game or modified Tactigun version you want to compile to html.
+1. First you will need the scratch 3 (.sb3) file of the Tactigun engine I or II game or modified Tactigun version you want to compile to html. (I have some Tactigun builds you can use in the builds folder.)
 
 2. Go to the [Turbowarp Packager site](https://packager.turbowarp.org/) choose file, and upload the .sb3
 
