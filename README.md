@@ -18,7 +18,7 @@ You can update the repository by doing:
 
 
 
-# How to compile SB3 to HTML?
+# How to compile SB3 to HTML/WINDOWS/MAC/LINUX?
 
 1. First you will need the scratch 3 (.sb3) file of the Tactigun engine I or II game or modified Tactigun version you want to compile to html. (I have some Tactigun builds you can use in the builds folder.)
 
@@ -32,6 +32,13 @@ You can update the repository by doing:
 
 5.5 **(OPTIONAL)**. Play around with the settings to your liking. These are just my recommended settings.
 
-6. You can now test the build by previewing it, or downloading it.
+6. Choose your platform to build to.
+
+7. You can now test the build by previewing it, or downloading it.
 
 # You are done! Enjoy your custom Tactigun engine I or II based game or modified Tactigun version!
+
+Note: TobHopU does not officially support builds for proprietary platforms
+
+❌ Windows/Mac/Linux
+✅ HTML/Scratch
