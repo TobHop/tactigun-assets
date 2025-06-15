@@ -8,4 +8,4 @@ If you want the repository locally, you can use [git](https://git-scm.com/downlo
 You can update the repository by doing:
 
 `git pull https://github.com/TobHop/tactigun-assets.git`
-(Make sure you have initilized git with `git init`
+(Make sure you have initilized git with `git init`)
