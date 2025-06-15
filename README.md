@@ -17,6 +17,21 @@ You can update the repository by doing:
 
 
 
-Check out Tactigun!
-https://tobhop.itch.io/tactigun-2
-https://scratch.mit.edu/search/projects?q=tactigun
+
+# How to compile to HTML?
+
+1. First you will need the scratch 3 (.sb3) file of the Tactigun engine I or II game or modified Tactigun version you want to compile to html.
+
+2. Go to the [Turbowarp Packager site](https://packager.turbowarp.org/) choose file, and upload the .sb3
+
+3. Scroll to the bottom of the page and click "Import Settings"
+
+4. Download the main Tactigun settings i have provided at `Coding/Turbowarp stuff/tactigunmainpackagersettings.json`
+
+5. Upload the settings
+
+5.5 **(OPTIONAL)**. Play around with the settings to your liking. These are just my recommended settings.
+
+6. You can now test the build by previewing it, or downloading it.
+
+# You are done! Enjoy your custom Tactigun engine I or II based game or modified Tactigun version!
