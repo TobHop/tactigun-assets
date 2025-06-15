@@ -11,4 +11,4 @@ You can update the repository by doing:
 (Make sure you have initilized git with `git init`)
 
 
-https://github.com/TobHop/tactigun-assets/blob/main/Spritework/Other/roynew.gif
+![Roy](Spritework/Other/roynew.gif)
